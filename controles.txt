@@ -1,0 +1,12 @@
+awsd = anda
+awsd + shift = corre
+awsd + espaco = dash
+q = joga item no chao
+e = abre/fecha inventario
+r = recarrega arma se ela tiver na mao
+t = organiza itens do inventario
+1234567890 = seleciona posicoes 1-10 do inventario
+scroll = rola o inventario
+ctrl + scroll = da zoom na camera
+mouse left = ataca
+mouse right = usa item
